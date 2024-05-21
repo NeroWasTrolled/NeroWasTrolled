@@ -1,5 +1,7 @@
 ### Eae, me chamo Gabriel França. ✋😼
-#### Boa visualização do meu perfil ai meu mano!
+- Atualmente trabalho no centro universitário UniCV - Cidade verde como estágiario.
+- Sou mais habituado e tenho mais aptidão em Back-end mas busco saber um pouquinho do Front.
+- Fazendo alguns cursinhos na Alura. 😼
 
 ![NeroWasTrolled GitHub stats](https://github-readme-stats.vercel.app/api?username=NeroWasTrolled&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeroWasTrolled&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
