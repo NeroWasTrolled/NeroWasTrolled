@@ -47,3 +47,4 @@ JavaScript;
   <img href="" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </div>
 
+![](https://github-profile-trophy.vercel.app/?username=VictorHMSforne&theme=discord&no-frame=false&no-bg=true&margin-w=4)
