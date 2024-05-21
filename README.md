@@ -44,3 +44,4 @@ JavaScript;
   <img href="" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </div>
 
+![snake gif](https://github.com/NeroWasTrolled/NeroWasTrolled/blob/output/github-contribution-grid-snake.svg)
