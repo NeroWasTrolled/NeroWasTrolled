@@ -5,6 +5,6 @@
 
 ## Ferramentas e Linguagens nas quais estou aprendendo ou usando.
 <div style="display: inline_block"><br/>
-  <img aling="center" alt="html5" src=""/>
+  <img aling="center" alt="html5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
 </div>
 
