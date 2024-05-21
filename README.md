@@ -17,7 +17,8 @@ Python;
 Java;
 JavaScript;
 - 🎮 Leve noção de eletromecânica.
-
-![NeroWasTrolled GitHub stats](https://github-readme-stats.vercel.app/api?username=NeroWasTrolled&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeroWasTrolled&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+<div>
+  <a href="https://github.com/NeroWasTrolled">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=NeroWasTrolled&show_icons=true&theme=dark">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeroWasTrolled&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+</div>
