@@ -11,7 +11,7 @@
 - 🥶 Estou estudando ou já aprendi as seguintes linguagens:
 C#;
 C++;
-Html;
+HTML;
 PHP;
 Python;
 Java;
