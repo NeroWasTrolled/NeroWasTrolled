@@ -4,7 +4,7 @@
 - Dá uma passada no meu perfil do Linkedin! 🤠
 
 <div>
-  <img href="https://www.linkedin.com/in/gabriel-frança-4633aa27b/" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  <a href="https://www.linkedin.com/in/gabriel-frança-4633aa27b/" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 
