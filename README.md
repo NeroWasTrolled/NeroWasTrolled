@@ -14,7 +14,8 @@ C++;
 Html;
 PHP;
 Python;
-Java;</p></li>
+Java;
+JavaScript;</p></li>
 
 <li><p dir="auto">🎮 Leve noção de eletromecânica.</p></li>
 
