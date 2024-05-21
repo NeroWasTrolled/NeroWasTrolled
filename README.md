@@ -3,8 +3,6 @@
 ![NeroWasTrolled GitHub stats](https://github-readme-stats.vercel.app/api?username=NeroWasTrolled&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeroWasTrolled&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## Ferramentas e Linguagens nas quais estou aprendendo ou usando.
-
 <ul dir="auto">
 <li><p dir="auto">🤖 No atual momento estou vinculado as instituições de ensino como Senai e UniCV, estou cursando Técnico em
 Análise e Desenvolvimento de Sistemas no Senai e ADS na UniCV.</p></li>
@@ -17,9 +15,8 @@ PHP;
 Python;
 Java;</p></li>
 
-<li>
-<p dir="auto">🕹 Aprendendo também sobre o Arduino</p>
-</li>
+<li><p dir="auto">🎮 Leve noção de eletromecânica.</p></li>
+
 <li>
 <div dir="auto"><br>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"><img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="max-width: 100%;"></a>
