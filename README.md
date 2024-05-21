@@ -1,4 +1,6 @@
-### Eaeee, yo ser GabrielFDSimoes. ✋😎
+### Salve, eu sou NeroWasTrolled. ✋😎
+#### Conhecido também como Gabriel.
+----
 - 🌿 Atualmente trabalho no centro universitário UniCV - Cidade verde como estágiario.
 - 👻 Sou mais habituado e tenho mais aptidão em Back-end mas busco saber um pouquinho do Front.
 - Dá uma passada no meu perfil do Linkedin! 🤠
@@ -7,12 +9,11 @@
   <a href="https://www.linkedin.com/in/gabriel-frança-4633aa27b/" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-
 ### Instituições de Ensino
 - 🤖 Finalizando um curso técnico no Senai CTM de Técnico em Análise e Desenvolvimento de Sistemas.
 - 👽 Iniciando Ensino Superior na UniCV de Análise e Desenvolvimento de Sistemas.
 - 👾 Fazendo alguns cursinhos na Alura disponibilizada pela UniCV.
-
+  
 ### Ferramentas
 - 🥶 Estou estudando ou já aprendi as seguintes linguagens:
 C#;
@@ -39,11 +40,10 @@ JavaScript;
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 </div>
 
+----
+
  - Conta secundária do GitHub:
 <div>
   <img href="" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </div>
 
-![snake gif](https://github.com/NeroWasTrolled/NeroWasTrolled/blob/output/github-contribution-grid-snake.svg)
-
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=NeroWasTrolled&repo=NeroWasTrolled&theme=react)](https://github.com/NeroWasTrolled/NeroWasTrolled)
