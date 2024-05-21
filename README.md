@@ -45,3 +45,5 @@ JavaScript;
 </div>
 
 ![snake gif](https://github.com/NeroWasTrolled/NeroWasTrolled/blob/output/github-contribution-grid-snake.svg)
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=NeroWasTrolled&repo=NeroWasTrolled&theme=react)](https://github.com/NeroWasTrolled/NeroWasTrolled)
