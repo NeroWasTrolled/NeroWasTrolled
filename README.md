@@ -1,5 +1,5 @@
-### Eae, me chamo Gabriel França. ✋
-- 😎 Atualmente trabalho no centro universitário UniCV - Cidade verde como estágiario.
+### Eae, eu sou Gabriel mas também conhecido como NeroWasTrolled. ✋😎
+- 🌿 Atualmente trabalho no centro universitário UniCV - Cidade verde como estágiario.
 - 👻 Sou mais habituado e tenho mais aptidão em Back-end mas busco saber um pouquinho do Front.
 
 ### Instituições de Ensino
