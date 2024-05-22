@@ -29,6 +29,8 @@ JavaScript;
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=NeroWasTrolled&show_icons=true&theme=dark">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeroWasTrolled&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 </div>
+
+![](https://github-profile-trophy.vercel.app/?username=NeroWasTrolled&theme=discord&no-frame=false&no-bg=true&margin-w=4)
     
 <div style="display: inline_block"><br>
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
@@ -47,4 +49,4 @@ JavaScript;
   <img href="" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </div>
 
-![](https://github-profile-trophy.vercel.app/?username=NeroWasTrolled&theme=discord&no-frame=false&no-bg=true&margin-w=4)
+
