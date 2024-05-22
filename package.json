@@ -3,7 +3,7 @@
   "description": "Generates a snake game from a github user contributions grid",
   "version": "3.2.0",
   "private": true,
-  "repository": "github:platane/snk",
+  "repository": "github:NeroWasTrolled/snk",
   "devDependencies": {
     "@sucrase/jest-plugin": "3.0.0",
     "@types/jest": "29.5.12",
