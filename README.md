@@ -26,8 +26,7 @@ JavaScript;
 - 🎮 Leve noção de eletromecânica.
 <div>
   <a href="https://github.com/NeroWasTrolled">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=NeroWasTrolled&show_icons=true&theme=dark">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeroWasTrolled&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+
 </div>
 
 ![](https://github-profile-trophy.vercel.app/?username=NeroWasTrolled&theme=discord&no-frame=false&no-bg=true&margin-w=4)
