@@ -1,9 +1,8 @@
-### Salve, eu sou NeroWasTrolled. ✋😎
-#### Conhecido também como Gabriel.
-----
-- 🌿 Atualmente trabalho no centro universitário UniCV - Cidade verde como estágiario.
-- 👻 Sou mais habituado e tenho mais aptidão em Back-end mas busco saber um pouquinho do Front.
-- Dá uma passada no meu perfil do Linkedin! 🤠
+# Perfil GitHub de Gabriel França
+
+<img align="center" width=100% src="https://github.com/RicardoMouraa/RicardoMouraa/assets/106688139/a23c252f-6a3d-42d8-96a0-0d6a3839fb96"/>
+
+<p align="center">❤️ Amo criar soluções inovadoras em tecnologia. <br><br> Como criador de conteúdo tech e desenvolvedor freelancer, combino paixão, criatividade e expertise técnica para entregar projetos únicos. De sites a templates, sou especialista em oferecer resultados de alta qualidade. Vamos criar juntos!</p>
 
 <div>
   <a href="https://www.linkedin.com/in/gabriel-frança-4633aa27b/" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
