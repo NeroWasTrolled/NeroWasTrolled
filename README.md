@@ -1,6 +1,6 @@
 # Perfil GitHub de Gabriel França
 
-<img align="center" width=100% src="Template.jpg"/>
+<img align="center" width=100% src="Template.jpeg"/>
 
 <p align="center">❤️ Sou apaixonado por desenvolver soluções inovadoras em tecnologia. <br><br> Como programador full stack e freelancer, combino conhecimento técnico e criatividade para desenvolver soluções personalizadas em diferentes plataformas. Seja para aplicações web, desktop ou mobile, estou preparado para transformar ideias em projetos de alta qualidade. Vamos criar algo incrível juntos!</p>
 
