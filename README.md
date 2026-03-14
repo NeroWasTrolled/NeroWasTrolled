@@ -57,7 +57,7 @@
 
 ### Meu Site
 <div align="center">
-  <a href="https://nerowastrolled.github.io/Landing-page/?fbclid=PAZXh0bgNhZW0CMTEAAaZjV5DHTHCLIN-7sXl-Am93-jYkkTV0Ze640_6OOVNOmdASCgwa0yTRbDk_aem_tuJMJebzAtewgQ-XLU5o1A" target="_blank"><img src="https://img.shields.io/badge/Gabriel-Simoes-dev?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Meu Site"></a>
+  <a href="https://gabriel-franca.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Gabriel-Simoes-dev?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Meu Site"></a>
 </div>
 
 ---
